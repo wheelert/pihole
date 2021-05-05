@@ -1,2 +1,3 @@
-acuityplatform.com
-facebook.com
+((^)|(.))acuityplatform.com
+((^)|(.))facebook.com
+
