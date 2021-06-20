@@ -8,6 +8,8 @@ navigation.sr.roku.com
 customer-feedbacks.web.roku.com 
 liberty.logs.roku.com
 cloudservices.roku.com
-api.sr.roku.com captive.roku.com
-cigars.roku.com p.ads.roku.com
+api.sr.roku.com 
+captive.roku.com
+cigars.roku.com 
+p.ads.roku.com
 display.ravm.tv
