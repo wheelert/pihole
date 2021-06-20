@@ -13,3 +13,5 @@ captive.roku.com
 cigars.roku.com 
 p.ads.roku.com
 display.ravm.tv
+austin.logs.roku.com
+osb.samsungqbe.com
