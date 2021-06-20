@@ -1,2 +1,13 @@
 acuityplatform.com
 www.acuityplatform.com
+scribe.logs.roku.com
+roku.adsmeasurement.com 
+amoeba-plus.web.roku.com
+api2.sr.roku.com
+navigation.sr.roku.com
+customer-feedbacks.web.roku.com 
+liberty.logs.roku.com
+cloudservices.roku.com
+api.sr.roku.com captive.roku.com
+cigars.roku.com p.ads.roku.com
+display.ravm.tv
