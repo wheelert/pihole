@@ -15,3 +15,5 @@ p.ads.roku.com
 display.ravm.tv
 austin.logs.roku.com
 osb.samsungqbe.com
+improve.duckduckgo.com
+improve.ddg.com
