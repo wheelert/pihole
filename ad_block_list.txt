@@ -18,3 +18,8 @@ osb.samsungqbe.com
 improving.duckduckgo.com
 improving.ddg.com
 app-measurement.com
+ihrhls.com
+graph.instagram.com
+ping.ui.com
+speeddials.opera.com
+wifiprotectqa.mcafee.com
