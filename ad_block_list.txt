@@ -23,3 +23,4 @@ ping.ui.com
 speeddials.opera.com
 wifiprotectqa.mcafee.com
 sitecheck2.opera.com
+sitecheck.opera.com
